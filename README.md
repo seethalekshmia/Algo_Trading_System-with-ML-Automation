@@ -60,7 +60,7 @@ The project executes a sequence of tasks orchestrated by `algo_engine.py`:
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/seethalekshmia/Algo_Trading_System-with-ML-Automation.git>
 cd algo_trading_project
 pip install -r requirements.txt
 ```
